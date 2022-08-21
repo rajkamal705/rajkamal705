@@ -1,4 +1,4 @@
-![](https://github.com/rajkamal705/https://www.webbanao.com/images/web-development-service-banner.png)
+
 
 <h1 align="center">Hi 👋, I'm Raj Kamal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
