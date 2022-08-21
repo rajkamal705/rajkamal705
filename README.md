@@ -1,4 +1,4 @@
-<img align="center" src="https://www.webbanao.com/images/web-development-service-banner.jpg"/>
+<img align="center" src="https://thumbs.dreamstime.com/b/java-technology-website-design-language-application-banner-colorful-plexus-software-vector-illustration-online-166485226.jpg"/>
 
 <h1 align="center">Hi 👋, I'm Raj Kamal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
