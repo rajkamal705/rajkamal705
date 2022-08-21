@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rajkamalyadav801302@gmail.com**
 
-- ⚡ Fun fact **lazy**
+- ⚡ Fun fact **: lazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
