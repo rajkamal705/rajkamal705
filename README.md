@@ -1,4 +1,4 @@
-[![MasterHead] (https://www.webbanao.com/images/web-development-service-banner.jpg)](https://github.com/rajkamal705)
+![](https://github.com/rajkamal705/https://www.webbanao.com/images/web-development-service-banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Raj Kamal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
