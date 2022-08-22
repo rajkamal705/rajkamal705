@@ -1,4 +1,4 @@
-<img align="center" src="https://thumbs.dreamstime.com/b/java-technology-website-design-language-application-banner-colorful-plexus-software-vector-illustration-online-166485226.jpg"/>
+<img align="center" src="https://www.waltercedric.com/wp-content/uploads/2020/03/java.jpg"/>
 
 <h1 align="center">Hi 👋, I'm Raj Kamal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
